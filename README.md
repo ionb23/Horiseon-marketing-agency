@@ -33,8 +33,11 @@ Your website must meet accessibility standards. You can achieve this completing 
 * Semantic HTML elements can be found throughout the source code
 * HTML elements follow a logical structure independent of styling and positioning
 * Image and icon elements contain accessible `alt` attributes
+<!--DONE!!!!!!!!!!!-->
 * Heading attributes fall in sequential order
+<!--DONE - already in right order, except h2 is used in footer after h3!!!!!!!!!!!-->
 * Title elements contain a concise, descriptive title
+<!--DONE - changed website title and title for the background image!!!!!!!!!!!-->
 
 ### Resources:
 
@@ -55,7 +58,11 @@ Follow these instructions to create your project and deploy it to GitHub Pages:
 
 1. Create a new repository on your GitHub account and clone it to your computer.
 
+<!--DONE!!!!!!!!!!!-->
+
 2. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
+
+<!--DONE!!!!!!!!!!!-->
 
 3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
 
@@ -100,6 +107,7 @@ This challenge is assessed on the following criteria:
 #### Repository Quality: 13%
 
 * Repository has a unique name.
+<!--DONE!!!!!!!!!!!-->
 
 * Repository follows best practices for file structure and naming conventions.
 
