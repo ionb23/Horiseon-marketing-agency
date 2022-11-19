@@ -85,7 +85,7 @@ This challenge is assessed on the following criteria:
 #### Technical Acceptance Criteria: 40%
 
 * Satisfies all of the above acceptance criteria plus the following code improvements:
-
+<!--DONE!!!!!!!!!!!-->
   * Application's links all function correctly.
 
   * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
