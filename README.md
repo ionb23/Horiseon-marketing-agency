@@ -87,9 +87,9 @@ This challenge is assessed on the following criteria:
 * Satisfies all of the above acceptance criteria plus the following code improvements:
 <!--DONE!!!!!!!!!!!-->
   * Application's links all function correctly.
-
+<!--DONE!!!!!!!!!!!-->
   * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
+<!--DONE!!!!!!!!!!!-->
   * Application's CSS file is properly commented.
 
 #### Deployment: 32%
