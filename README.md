@@ -12,7 +12,7 @@ CSS structure was improved by ensuring selectors and properties are consolidated
 
 [https://ionb23.github.io/challenge-1/](https://ionb23.github.io/challenge-1/)
 
-##Website demo screenshot:
+## Website demo screenshot:
 
 ![ScreenShot](/screenshots/website-demo.png)
 
