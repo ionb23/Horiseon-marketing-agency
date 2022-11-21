@@ -20,7 +20,9 @@ If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https:/
 
 If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
 
+Website demo screenshot:
 
+![ScreenShot](/screenshots/website-demo.png)
 
 ---
 
