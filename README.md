@@ -4,21 +4,15 @@
 
 short description explaining the what, why, and how. 
 
-What was your motivation?
+This project presents the website of a marketing agency. It is optimized for search engines and follows accessbility standards. This was done by adding improving the title of the webpage, adding 'alt' attributes to all images and icons. 
 
-Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") 
+HTML was further improved by ensuring semantic elements are found throughout the code to increase readability and HTML generally follows logical structure.
 
-What problem does it solve? 
+CSS structure was improved by ensuring selectors and properties are consolidated and organised and commends were added to aid understanding.
 
-What did you learn? 
+Website link:
 
-What makes your project stand out?
-
-Lastly, if your project is deployed, include a link to the deployed application here.
-
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
+[https://ionb23.github.io/challenge-1/](https://ionb23.github.io/challenge-1/)
 
 Website demo screenshot:
 
