@@ -8,11 +8,11 @@ HTML was further improved by ensuring semantic elements are found throughout the
 
 CSS structure was improved by ensuring selectors and properties are consolidated and organised and commends were added to aid understanding.
 
-Website link:
+## Website link:
 
 [https://ionb23.github.io/challenge-1/](https://ionb23.github.io/challenge-1/)
 
-Website demo screenshot:
+##Website demo screenshot:
 
 ![ScreenShot](/screenshots/website-demo.png)
 
