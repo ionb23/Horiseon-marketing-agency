@@ -118,6 +118,7 @@ This challenge is assessed on the following criteria:
 * Repository contains multiple descriptive commit messages.
 <!--DONE!!!!!!!!!!!-->
 * Repository contains quality README file with description, screenshot, and link to deployed application.
+<!--DONE!!!!!!!!!!!-->
 
 ### Review
 
